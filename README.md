@@ -1,7 +1,7 @@
 # Eightroom_wp
 Wordpress Site Test creado para Eightroom 
 
-#Descripción
+# Descripción
 
 Este proyecto fue desarrollado como una pagina de noticias deportivas ficticia. 
 El desafió es usar WordPress, generar un sistema de entradas con custom_fields, utilizar taxonomia de categorías. 
@@ -11,7 +11,7 @@ Y por ultimo esta la seccion de la nota en si. Esta esta hecha con custom fields
 Todo el sitio esta hecho resposive tanto para tabletas como celulares. 
 
 
-#Proceso de creación y archivos
+# Proceso de creación y archivos
 
 Se genero un tema padre donde están el esqueleto del tema, acá genere los archivos principales con estructura basica y los vinculos bases entre las plantillas, templates-parts, y archivos scss, css y js.
 El tema esta compuesto por 2 plantillas Home (home.php) usada como pagina principal y "Noticias"  (template-noticias.php). Estas plantillas tienen submodulos que estan alojados en /template-parts. Cada modulo esta vinculado a un css, se trabajo con scss pero se copilo, tiene instalado NPM y en el package.json está el script para ejecutar la copilación 
